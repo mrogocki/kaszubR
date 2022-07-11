@@ -1,0 +1,2 @@
+# kaszubR
+Kaszubian utility package
